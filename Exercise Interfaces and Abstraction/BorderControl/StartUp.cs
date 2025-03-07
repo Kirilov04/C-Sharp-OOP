@@ -33,8 +33,9 @@ namespace BorderControl
             {
                 Console.WriteLine(baseEntity.Id);
             }
-        }
     }
+        }
+    
 }
 /*
                          Input
